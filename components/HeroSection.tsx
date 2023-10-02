@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const HeroSection = () => {
   return (
-    <section className="w-full md:h-screen flex items-center justify-between text-white gap-5 flex-col md:flex-row">
+    <section className="w-full mt-32 md:mt-0 md:h-screen flex items-center justify-between text-white gap-5 flex-col md:flex-row">
       <div className="space-y-5 flex-1 z-20 ">
         <h1 className="text-3xl sm:text-6xl font-bold">
           Nikmati Tontonan Dimana Saja, dan Kapan Saja
