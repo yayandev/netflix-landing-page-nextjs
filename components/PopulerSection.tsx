@@ -95,7 +95,7 @@ const PopulerSection = () => {
         </div>
         <div className="w-96 sm:w-60 p-3 bg-[#1F2127] space-y-2 rounded-lg shadow-sm border text-white">
           <Image
-            src="/film/film3.png"
+            src="/film/film4.png"
             width={200}
             height={200}
             alt="Film"
